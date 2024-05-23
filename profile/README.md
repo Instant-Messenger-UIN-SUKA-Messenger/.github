@@ -1,38 +1,33 @@
-<img src="https://github.com/TARA-Project/.github/blob/main/profile/tara-logo.png" width="200">
+<img src="https://github.com/Instant-Messenger-UIN-SUKA-Messenger/.github/blob/main/profile/Logo_UIN_Sunan_Kalijaga.png" width="200">
 
-# TARA - CH2-PS559 - Bangkit 2023 Batch 2
+# Instant Messenger
 
-## What is TARA?
+## What is Instant Messenger?
 
-TARA or Tourist Attractions Recommender App is a free application that can help users find suitable tourist attractions and provide transportation suggestions and ease of reaching tourist locations.
-
-With TARA, users can find tourist attractions that suit their interests, get information about these tourist attractions, get transportation suggestions and the convenience of getting to the place. So it is hoped that it can increase tourism in the area and improve the local economy.
+Instant Messenger is ...
 
 ## Team Members
 
-| Name                            | Role               | ID          |
-| ------------------------------- | ------------------ | ----------- |
-| Muhammad Javier Badruttamam     | Machine Learning   | M548BKY4448 |
-| Aldo Indra Winata Koestiwa      | Machine Learning   | M008BSY0572 |
-| Selvi Mutia                     | Machine Learning   | M536BSX0447 |
-| Arya Baskara Cahyakusuma        | Cloud Computing    | C005BSY4098 |
-| Muchammad Syaifudin Zarkasyi    | Cloud Computing    | C008BSY4250 |
-| Nanda Arya Putra                | Mobile Development | A548BKY4430 |
+| Name                            | Role / Job               | NIM          |
+| ------------------------------- | ------------------------ | ------------ |
+| Nanda Arya Putra                | REST API                 | 21106050048  |
+| Ibnu Raju Humam                 | REST API                 | 21106050047  |
+| Muhammad Samman Al Farisy       | REST API                 | 21106050097  |
+| Malik Al Rasyidi                | Rabbit MQ                | 21106050010  |
+| Ahmad Ghozali                   | Rabbit MQ                | 20106050036  |
+| Alega Cahya Saputra             | Processor                | 21106050073  |
+| Sya'roni Zulfikar               | Processor                | 21106050038  |
+| Hirzil Kaisan                   | Websocket                | 21106050078  |
+| M. Hanif Fajar Anggara          | Websocket                | 21106050083  |
+| Muhammad Avat Riahul Atsar      | Front End Android        | 21106050016  |
+| Muhammad Nashih Al Wafi         | Front End Android        | 21106050030  |
+| Fansuri Fadel Fitrah Prakon     | Front End Web            | 21106050091  |
+| Tegas Setiawan                  | Front End Web            | 21106050090  |
 
-## Theme
+## Tech Stack
 
-Tourism, Cultural, and Hospitality
-
-## Info
-
-Currently, TARA can only run in the "Daerah Istimewa Yogyakarta" area due to limited time and resources.
-
-## Link
-
-- [Mobile Apps Source Code](https://github.com/TARA-Project/tara-mobile)
-- [Machine Learning Source Code](https://github.com/TARA-Project/tara-ML)
-- [Cloud Computing Source Code](https://github.com/TARA-Project/tara-cc-backend-ml)
-
-- [TARA APK](https://drive.google.com/file/d/1Y3RN8yWtI4PF9s_8DyMaFO3jxl4barpl/view?usp=sharing)
-- [Backend API](https://tara-api2-72oh4bxmxq-as.a.run.app/)
-- [API Specification](https://docs.google.com/document/d/18eF9pdPQ6_vOIk_YCLPnpcD365Jvu2FvdSFCBx0KUAI/edit?usp=sharing)
+1. Gin Web Framework (for REST API)
+2. Rabbit MQ (for Message Broker)
+3. Socket.io / Websocket (for real-time communication)
+4. Android Native (for Mobile Apps)
+5. Web
