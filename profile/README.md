@@ -4,7 +4,7 @@
 
 ## What is Instant Messenger?
 
-Instant Messenger is a real-time communication application designed to facilitate instant messaging between users. It allows for seamless text messaging, file sharing, and notifications through various interfaces, including web and mobile applications. The system is built to ensure fast, reliable, and secure communication, utilizing modern technologies and frameworks.
+Instant Messenger is a real-time communication application designed to facilitate instant messaging between users. It allows for seamless text messaging and file sharing through various interfaces, including web and mobile applications. The system is built to ensure fast and reliable communication.
 
 ## Team Members
 
